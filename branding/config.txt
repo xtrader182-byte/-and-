@@ -6,7 +6,7 @@
 # =====================================================
 
 # App display name (shown on phone home screen)
-APP_NAME=Jarvis
+APP_NAME=খোকন❤️স্বর্ণা 
 
 # Application package name (unique identifier)
 PACKAGE_NAME=dev.krinry.jarvis
